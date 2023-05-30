@@ -15,3 +15,4 @@ The mobile application (iOS/Android) is built in Flutter using the programming l
 Along with the app, we also built a complementary web application. The purpose of the web application is to display the leaderboards among the users, track who has completed the most steps, gamifying the experience of using environmentally friendly transport. To accomplish this part of the project, we used ReactJS to build the front end and connected it to our database hosted on Firebase. It is run concurrently with the mobile application, allowing for steps to be updated in real-time, as our users are actively taking steps to saving the planet. We also added a support button that allows users to sponsor individuals to take more steps, prompting the sponsored users application (concurrent communication between mobile and web applications).
 
 # This is only the website repo.
+## devpost: https://devpost.com/software/ecostride
